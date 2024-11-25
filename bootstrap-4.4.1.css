@@ -62,3 +62,31 @@ header a {
     font-size: xx-large;
     letter-spacing: 0.3em;
 }
+h4 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-size: medium;
+    text-align: justify;
+    max-width: 600px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 200px;
+    margin-top: 25px;
+}
+h5 {
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: medium;
+    text-align: justify;
+    max-width: 600px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 200px;
+    margin-top: 25px;
+}
