@@ -93,3 +93,19 @@ h5 {
     min-width: 200px;
     margin-top: 25px;
 }
+@font-face{
+    font-family:prestige-bold-slanted;
+    src:url(bold-slanted.ttf)
+}
+@font-face{
+    font-family:prestige-bold;
+    src:url(bold.ttf)
+}
+@font-face{
+    font-family:prestige-regular;
+    src:url(regular.ttf)
+}
+@font-face{
+    font-family:prestige-slanted;
+    src:url(slanted.ttf)
+}
