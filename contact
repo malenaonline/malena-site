@@ -1,1 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Malena: CV</title>
+    <!-- Bootstrap -->
+<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<style type="text/css">
+	body,td,th {
+    font-size: xx-small;
+    color: #000000;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: lighter;
+}
+    h4 {
+    font-size: small;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-align: left;
+    text-shadow: 0 0;
+}
+    h5 {
+    font-size: small;
+    font-family: "Helvetica";
+    text-align: right;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+email {
+    font-size: x-small;
+    text-align: center;
+    left: auto;
+    right: auto;
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-variant: normal;
+    font-weight: lighter;
+    text-shadow: 0px 0px 0;
+    letter-spacing: 0.2em;
+}
+button {
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 400;
+    align-content: left;
+    text-decoration: underline;
+    background-color: #FFFFFF;
+    border: none;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #000000;
+    text-align: left;
+}	
+button:hover {
+  cursor: pointer;
+}
+@media screen{
+.btn-outline-transparent {
+}
+.font-size {
+}
+.gy-5 {
+}
+}
+    a {
+    font-family: "Helvetica";
+    font-size: small;
+    color: #000000;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+a:active {
+    text-decoration: none;
+}
+@font-face{
+    font-family:prestige-bold-slanted;
+    src:url(bold-slanted.ttf)
+}
+@font-face{
+    font-family:prestige-bold;
+    src:url(bold.ttf)
+}
+@font-face{
+    font-family:prestige-regular;
+    src:url(regular.ttf)
+}
+@font-face{
+    font-family:prestige-slanted;
+    src:url(slanted.ttf)
+}
 
+</style>
+</head>
+<body>
+	<meta name="description" content="Malena Grigoli is an artist and designer based in Cleveland, Ohio.">
+		<div class="mt-5"></div>
+	
+ 		<h4 class="text-left""fw-lighter""lh-1"><strong>Malena Grigoli</strong> is an artist & designer based in Cleveland, Ohio.</h4>
+	
+		<div class="text-center"> 
+  			<div align=left>
+  				<a href="index.html">
+  					<button type="button" class="btn btn-lg" href="index.html"><strong>CV</strong></button>
+  				</a>
+			</div>	
+			<div align=left>
+  				<a href="work.html">
+  					<button type="button" class="btn btn-lg" href="work.html">WORK</button>
+  				</a>
+			</div>
+			<div align=left>
+				<a href="contact.html">
+					<button type="button" class="btn btn-lg" href="contact.html">CONTACT</button>
+				</a>
+			</div>
+		</div>
+
+		<h5>
+			malenagrigoli @ gmail . com<br>
+		</h5>
+		<div class="mt-5"></div>
+		<h5>
+		@ _ma_le.na<br>
+		</h5>
+	
+		<div class="mt-5"></div>
+		
+	</body>
+	    
+  <!-- body code goes here -->
+	    
+	    
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+  <script src="js/jquery-3.4.1.min.js"></script>
+	    
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+  		</h6>
+  </body>
+</html>
