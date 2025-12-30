@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	  <link rel="icon" href="favicon.ico">
+    <title>malenagrigoli.com</title>
+    <!-- Bootstrap -->
+<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<style type="text/css">
+		
+	body,td,th {
+    font-size: xx-small;
+    color: #000000;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: lighter;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2%;
+    margin-right: 2%;
+}
+	.spacer {
+  	height: 10px;
+}
+	h3 {
+    font-size: small;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: normal;
+    text-align: left;
+    text-shadow: 0 0;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2%;
+    margin-right: 2%;
+	line-height: 150%;
+	letter-spacing: 0.05em;
+}
+    h4 {
+    font-size: small;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: normal;
+    text-align: left;
+    text-shadow: 0 0;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2%;
+    margin-right: 2%;
+	line-height: 150%;
+	letter-spacing: 0.05em;
+}
+    h5 {
+    font-size: small;
+    font-family: "Helvetica";
+    text-align: left;
+    font-weight: lighter;
+    font-variant: small-caps;
+	margin-left: 2%;
+    margin-right: 2%;
+	line-height: 150%;
+}
+email {
+    font-size: x-small;
+    text-align: center;
+    left: auto;
+    right: auto;
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-variant: normal;
+    font-weight: lighter;
+    text-shadow: 0px 0px 0;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 2%;
+    margin-right: 2%;
+}
+button {
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 400;
+    align-content: left;
+    background-color: #FFFFFF;
+    border: none;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #000000;
+    text-align: left;
+	margin-left: 2%;
+    margin-right: 2%;
+}	
+button:hover {
+  cursor: pointer;
+  color: #FFFFFF;
+}
+@media screen{
+.btn-outline-transparent {
+}
+.font-size {
+}
+.gy-5 {
+}
+}
+    a {
+    font-family: "Helvetica";
+    font-size: small;
+    color: #000000;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+	cursor: pointer;
+}
+a:active {
+    text-decoration: none;
+}
+@font-face{
+    font-family:prestige-bold-slanted;
+    src:url(bold-slanted.ttf)
+}
+@font-face{
+    font-family:prestige-bold;
+    src:url(bold.ttf)
+}
+@font-face{
+    font-family:prestige-regular;
+    src:url(regular.ttf)
+}
+@font-face{
+    font-family:prestige-slanted;
+    src:url(slanted.ttf)
+}
+
+</style>
+</head>
+<body>
+	
+	<meta name="description" content="Malena Grigoli is an artist and designer based in Cleveland, Ohio">
+		<div class="mt-5"></div>
+	
+		<h4 class="text-left""fw-lighter""lh-1">
+			<a href="https://malenagrigoli.com"> malena grigoli is based in cleveland, ohio </a>
+		</h4>
+		<h5>
+			<strong>malenagrigoli@gmail . com</strong><br>
+			<strong><a href="https://www.instagram.com/_ma_le.na/">@_ma_le.na</strong><br>
+		</h5>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="text-center"> 
+  			<div align=left>
+  				<a href="cv.html">
+  					<button type="button" class="btn btn-lg" href="cv.html"><em>CV</em></button>
+  				</a>
+			</div>	
+			<div align=left>
+  				<a href="work.html">
+  					<button type="button" class="btn btn-lg" href="work.html"><em><strong>←WORK</strong></em></button>
+  				</a>
+			</div>
+		</div>
+	
+	<div class="spacer"></div>
+	<div class="spacer"></div>
+	
+	<figure>
+		<button align="left"><a href="9413sophia.html"><img src="images/9413sophia.jpg" class="align-content-md-start" style="width:75px;height:75px" ></img></a></button>
+		<figcaption align="center"><a href="9413sophia.html"><u><em>9413 SOPHIA AVE</em></u></a></figcaption>
+	</figure>
+	
+		<div class="spacer"></div>	
+		<div align="right"> 
+			
+			<div class="mt-4"></div>
+		<img src="images/DSC09649.jpg" alt="htdah" style="width: 375px; height: 250px; align-content: right" class="img-fluid"></img>
+			<div class="mt-2"></div>
+			<img src="images/DSC09700.jpg" alt="htdah 2" style="width: 375px; height: 250px; align-content: right" class="img-fluid"></img>
+			<div class="mt-2"></div>
+	<h3 class="caption" align-text: right"><em>How To Deconstruct a Home, first edition</em><br>
+		Collaboration with <a href="https://colinmartinez.xyz/">Colin Martinez</a>, 2025<br>
+		Debuted at the Jersey Art Book Fair in Jersey City, NJ<br>
+	</h3>
+<div class="mt-5"></div>
+<div class="mt-5"></div>
+		<img src="images/notesoncringe1.jpg" alt="notes on cringe" style="width: 375px; height: 375px; align-content: right" class="img-fluid"></img>
+			<div class="mt-2"></div>
+			<img src="images/notesoncringe2.jpg" alt="notes on cringe 2" style="width: 375px; height: 375px; align-content: right" class="img-fluid"></img>
+			<div class="mt-2"></div>
+	<h3 class="caption" align-text: right"><em>Notes on "Cringe"</em><br>
+		Collaboration with @supersam.hooray, 2023<br>
+		Debuted at the Imprint Arts and Zine Fair in Cleveland, OH<br>
+	</h3>
+	</div>	
+
+				
+		</div>
+	</div>
+</div>
+		
+	</body>	
+  <div class="mt-5"></div>
+  <div class="mt-7"></div>
+  <div>
+<h6>
+	    
+  <!-- body code goes here -->
+	    
+	    
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+  <script src="js/jquery-3.4.1.min.js"></script>
+	    
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+  </h6>
+  </body>
+</html>
