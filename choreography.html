@@ -121,6 +121,11 @@ a:active {
     margin-left: 2%;
 	margin-right: 2%;
 }
+@media (max-width: 1500px) {
+	.wrapper-main {
+		width: 100%
+	}
+}
 @font-face{
     font-family:prestige-bold-slanted;
     src:url(bold-slanted.ttf)
@@ -143,6 +148,7 @@ a:active {
 <body>
 	
 	<meta name="description" content="Malena Grigoli is based in Cleveland, Ohio">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<div class="mt-5"></div>
 	
 		<h4 class="text-left""fw-lighter""lh-1">
@@ -174,7 +180,7 @@ a:active {
 	<div class="spacer"></div>
 	<div align="left"> 
 
-		<box> <img srcset="images/tiredance1.jpg" sizes="(width <= 1500px) 100%, 50%" src="images/tiredance1.jpg" alt="htdah" class="img-fluid"></img></box>
+		<box> <img src="images/tiredance1.jpg" alt="htdah" style="width: 50%;" class="img-fluid"></img></box>
 		<div class="spacer"></div>
 		<box> <img src="images/tiredance2.jpg" alt="htdah 2" style="width: 50%;" class="img-fluid"></img></box>
 		<div class="spacer"></div>
