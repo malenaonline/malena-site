@@ -121,3 +121,8 @@ h5 {
     font-family:prestige-slanted;
     src:url(slanted.ttf)
 }
+@media (max-width: 1500px) {
+    .wrapper-main { 
+        width: 100%
+    }
+}
