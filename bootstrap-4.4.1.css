@@ -80,7 +80,7 @@ h4 {
     font-style: normal;
     font-size: medium;
     text-align: justify;
-    letter-spacing: 0.6em;
+    letter-spacing: 1em;
     max-width: 600px;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
@@ -95,7 +95,7 @@ h5 {
     font-style: italic;
     font-size: medium;
     text-align: justify;
-    letter-spacing: 0.6em;
+    letter-spacing: 1em;
     max-width: 600px;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
