@@ -13,9 +13,9 @@
 	body,td,th {
     font-size: xx-small;
     color: #000000;
-    font-family: "Times New Roman";
+    font-family: "Arial";
     font-style: normal;
-    font-weight: lighter;
+    font-weight: normal;
 	margin-top: 5%;
 	margin-bottom: 5%;
 	margin-left: 5%;
@@ -26,33 +26,49 @@
 }
     h4 {
     font-size: small;
-    font-family: "Helvetica";
+    font-family: "Arial";
+	font-weight: lighter;
     font-style: normal;
-    font-variant: small-caps;
     text-align: left;
-    text-shadow: 0 0;
-	line-height: 100%;
+	line-height: 150%;
 }
     h5 {
     font-size: small;
-    font-family: "Helvetica";
+    font-family: "Arial";
+	font-weight: lighter;
     text-align: left;
-    font-variant: small-caps;
-	line-height: 100%;
+	line-height: 150%;
 }
+	h6 {
+    font-size: small;
+    font-family: "Arial";
+	font-weight: lighter;
+    text-align: left;
+	line-height: 150%;
+	}
+@media (max-width: 1500px) {
+	.caption {
+		max-width: 100%;
+	}
+}
+@media (min-width: 1501px) {
+	.caption {
+		max-width: 50%;
+	}
+}	
 email {
     font-size: x-small;
     text-align: center;
     left: auto;
     right: auto;
-    font-family: "Times New Roman";
+    font-family: "Arial";
     font-style: italic;
     font-variant: normal;
     font-weight: lighter;
     text-shadow: 0px 0px 0;
 }
 button {
-    font-family: "Helvetica";
+    font-family: "Arial";
     font-style: normal;
     font-weight: 400;
     align-content: left;
@@ -67,6 +83,22 @@ button:hover {
   cursor: pointer;
   color: #FFFFFF;
 }
+img (max-width: 1500px) {
+    max-width: 100%;
+    height: auto;
+}
+@media (max-width: 1500px) {
+	img  {
+	max-width: 100%;
+    height: auto;
+}
+}
+@media (min-width: 1501px) {
+	img  {
+	max-width: 50%;
+    height: auto;
+}
+}
 @media screen{
 .btn-outline-transparent {
 }
@@ -75,9 +107,9 @@ button:hover {
 .gy-5 {
 }
 }
-    a {
-    font-family: "Helvetica";
-    font-size: small;
+a {
+	font-family: "Arial";
+	font-size: small;
     color: #000000;
     text-align: center;
     background-color: #FFFFFF;
@@ -96,6 +128,11 @@ a:hover {
 a:active {
     text-decoration: none;
 }
+.box {
+    margin-left: 2%;
+	margin-right: 2%;
+}
+		
 @font-face{
     font-family:prestige-bold-slanted;
     src:url(bold-slanted.ttf)
@@ -112,7 +149,6 @@ a:active {
     font-family:prestige-slanted;
     src:url(slanted.ttf)
 }
-
 </style>
 </head>
 <body>
@@ -121,11 +157,11 @@ a:active {
 		<div class="mt-5"></div>
 	
  		<h4 class="text-left""fw-lighter""lh-1">
-			<a href="https://malenagrigoli.com"> malena grigoli is based in cleveland, ohio </a>
+			<a href="https://malenagrigoli.com"><strong>Malena Grigoli is based in Cleveland, Ohio.</strong></a>
 		</h4>
 	<h5>
-			malenagrigoli@gmail . com<br>
-			<a href="https://www.instagram.com/_ma_le.na/">@_ma_le.na</a><br>
+			<strong>malenagrigoli@gmail . com<br>
+			<a href="https://www.instagram.com/_ma_le.na/">@_ma_le.na</a></strong><br>
 	</h5>
 		<div class="spacer"></div>
 		<div class="spacer"></div>
